@@ -6,18 +6,17 @@
     <title>Rectangle Area Calculator</title>
 </head>
 <body>
-    <h1>Rectangle Area Calculator</h1>
     <?php
     function calculateArea($width, $height) 
     {
         $area = $width * $height;
         return $area;
     }
-    $width = 5;
-    $height = 10;
+    $width = 4;
+    $height = 2;
 
     $area = calculateArea($width, $height);
-    echo "<p>The area of the rectangle with width $width and height $height is: $area</p>";
+    echo "<p><b>The area of the rectangle with width $width and height $height is $area </p>";
     ?>
 </body>
 </html>
