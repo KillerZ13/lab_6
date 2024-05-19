@@ -8,7 +8,7 @@
         $name = "Muhammad Hazim Bin Annuar";
         $matric_number = "DI220015";
         $course = "Bachelor Of Information Technology";
-        $year_of_study = "3 Years";
+        $year_of_study = "Year 2 semester 1";
         $Address = "Kampung Parit Lapis Mahang";
     ?>
     <table>
